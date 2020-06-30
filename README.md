@@ -1,4 +1,3 @@
-Run
 
 ### 1. Install composer
 
